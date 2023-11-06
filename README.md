@@ -23,11 +23,6 @@ The Piscine at 42 is not just a coding boot camp; it's a rite of passage for bud
 - **Weekend Sprints:** Intense collaboration under tight deadlines. It's more than code; it's about synergy.
 - **Teamwork:** New faces, new insights. Every weekend, a fresh chance to synergize with a new partner.
 
-## BSQ Challenge: 🎯
-- **Tough Puzzle:** A real test of your optimization skills.
-- **Operation:** Efficient coding meets critical thinking.
-
-
 ### Exams: 📝
 - **Weekly Tests:** Each week, a 4-hour trial by fire (8 hours for the final exam).
 - **Practical Application:** It's showtime for all you've learned, with the pressure on.
